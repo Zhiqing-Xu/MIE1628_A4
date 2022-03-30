@@ -10,8 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "gender_jobs_distribution2.csv",
-				"container": "input1"
+				"container": "output1"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
